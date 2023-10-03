@@ -74,12 +74,12 @@ def reconnect_email(sender_email, sender_password):
             retries += 1
 
 # Input parameters
-sender_email = ""
-sender_password = ""
-recipient_email = ""
-subject = ""
-message = ""
-num_emails = 1000 #max 500
+sender_email = "srijasur590@gmail.com"
+sender_password = "ltad ogsm qdfe luum "
+recipient_email = "srijasur09@gmail.com"
+subject = "srija I beg u pls"
+message = "Jaan ek baat krlo please"
+num_emails = 500
 
 # Connect to the SMTP server
 server = connect_email(sender_email, sender_password)
